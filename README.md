@@ -14,4 +14,4 @@ Descrição do projeto: GuaruApp é o guia definitivo para explorar a vibrante c
 
 --> Desenvolvimento do Projeto: https://github.com/Jlucas-4/Prot-tipo_GuaruApp/wiki/Desenvolvimento-do-Projeto
 
-Aviso: O protótipo final está localizado no pasta Prot-tipo_GuaruApp-main, no arquivo flutterApplication-2
+Aviso: O protótipo final está localizado no pasta Prot-tipo_GuaruApp-main, no arquivo flutter_application_2
