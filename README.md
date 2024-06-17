@@ -12,3 +12,4 @@ Descrição do projeto: GuaruApp é o guia definitivo para explorar a vibrante c
 
 --> Funcionalidade da tela de pontos turísticos: https://github.com/Jlucas-4/Prot-tipo_GuaruApp/wiki/Funcionalidades_Pontos-tur%C3%ADsticos
 
+--> Desenvolvimento do Projeto: https://github.com/Jlucas-4/Prot-tipo_GuaruApp/wiki/Desenvolvimento-do-Projeto
